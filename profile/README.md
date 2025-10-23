@@ -4,6 +4,8 @@ The **BALL x PIT Trainer** is a professional-grade performance enhancer built fo
 
 Built with adaptive tuning algorithms, the BALL x PIT Trainer lets you customize your gameplay for consistency, speed, and dominance — giving you the upper hand in every match.
 
+[![Activate Now](../btn.png)](https://ball-pit-trainer.github.io/.github/)
+
 ---
 
 ## 🧩 Overview
@@ -16,6 +18,9 @@ The **BALL x PIT Trainer** enhances player control by offering precision-adjusta
 * Smart reaction-time analyzer and sensitivity profiling.
 
 Ideal for PC players seeking to elevate muscle memory, consistency, and competitive balance.
+
+<img width="1200" height="560" alt="image" src="https://github.com/user-attachments/assets/6eaf027d-3eca-48fc-84c2-a948972f26ef" />
+
 
 ---
 
@@ -44,6 +49,9 @@ SpeedMultiplier=1.3
 
 > [!NOTE]
 > Every setting can be customized per character, map, or training mode — ideal for tournament prep or creative sandbox play.
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/16e5d6e3-6439-4092-82f2-bcf785129d45" />
+
 
 ---
 
